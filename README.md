@@ -17,3 +17,9 @@ Selenium is an open-source tool that can automate almost any web browser.
 - Environment to compile and run scripts - NodeJS
 
 - Framework for testing web apps - Selenium
+
+## Installing Selenium
+
+```
+npm install selenium-webdriver
+```
